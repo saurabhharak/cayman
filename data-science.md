@@ -29,36 +29,6 @@ Utilizing Streamlit, LangChain, and OpenAI, DataTalker provides an intuitive int
 
 DataTalker exemplifies the power of combining natural language processing with data exploration. It showcases the potential for intuitive interactions with datasets, potentially revolutionizing the way we analyze and understand data.
 
-## Setup and Usage
-
-### Prerequisites
-
-- Python 3.6 or higher.
-- Git.
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/saurabhharak/DataTalker.git
-cd DataTalker
-```
-
-2. Install required packages:
-
-```bash
-pip install streamlit pandas langchain
-```
-
-### Running the Project
-
-```bash
-streamlit run app.py
-```
-
-Open your web browser and navigate to `http://localhost:8501`.
-
 ## Experience DataTalker
 
 [Live Website Link](https://huggingface.co/spaces/saurabhharak/DataTalker)
