@@ -3,8 +3,67 @@ layout: default
 title: Data Science
 description: Data Science Projects
 ---
-
 ## Data Science Projects
+
+# DataTalker - A Conversation Interface for Datasets
+
+## Overview
+
+Explore DataTalker, a Streamlit web application that enables natural language interactions with your dataset. This project showcases the fusion of language models and data processing to facilitate intuitive conversations with your data.
+
+## Description
+
+DataTalker leverages LangChain and OpenAI to create an interactive chat interface. By uploading your dataset and utilizing OpenAI's API, you can converse with your data, extracting insights and information in a conversational manner.
+
+## Advantages
+
+- Enables intuitive communication with your dataset.
+- Leverages cutting-edge language models for accurate responses.
+- Streamlines data exploration and understanding.
+
+## Implementation
+
+Utilizing Streamlit, LangChain, and OpenAI, DataTalker provides an intuitive interface for uploading datasets and querying them using natural language. The conversation history is retained for seamless interactions.
+
+## Conclusion
+
+DataTalker exemplifies the power of combining natural language processing with data exploration. It showcases the potential for intuitive interactions with datasets, potentially revolutionizing the way we analyze and understand data.
+
+## Setup and Usage
+
+### Prerequisites
+
+- Python 3.6 or higher.
+- Git.
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/saurabhharak/DataTalker.git
+cd DataTalker
+```
+
+2. Install required packages:
+
+```bash
+pip install streamlit pandas langchain
+```
+
+### Running the Project
+
+```bash
+streamlit run app.py
+```
+
+Open your web browser and navigate to `http://localhost:8501`.
+
+## Experience DataTalker
+
+[Live Website Link](https://huggingface.co/spaces/saurabhharak/DataTalker)
+
+---
 
 **Image Captioning with Transformers: A Fusion of Vision and Language**
 
