@@ -1,3 +1,9 @@
+---
+layout: default
+title: Open Source Projects
+description: Open Source Projects
+---
+
 # Project: Map2LGD LGD Mapping App(Open Source Project) 🌐🗺️
 
 **Description:**
@@ -35,3 +41,4 @@ Crafted with Streamlit's magic, the web interface is not just a UI; it's a journ
 [Map2LGD Repository](<https://github.com/saurabhharak/Map2LGD>)
 
 **Take a Dive into the Data-Driven Wonders of Map2LGD! 🚀🗺️💡**
+---
