@@ -4,7 +4,7 @@ title: Open Source Projects
 description: Open Source Projects
 ---
 
-# Project: Map2LGD LGD Mapping App(Open Source Project) 🌐🗺️
+# Project: Map2LGD LGD Mapping App🌐🗺️
 
 **Description:**
 
