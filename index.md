@@ -7,7 +7,14 @@ Hello, I'm Saurabh Harak, an independent and self-motivated professional with a 
 ## About Me
 
 
-Dual-skilled Machine Learning Engineer and Data Engineer with 4 years of experience in designing and implementing robust data pipelines, driving efficient data management and analysis. Proven track record in successful delivery of an ERP project, pioneering R&D for autonomous drones, and hands-on development and leadership responsibilities. Proficient in Full Stack and Android Development, contributing to tailored solutions, enhancing operational efficiency, and enriching user experiences. Specialized in developing machine learning models and algorithms to extract actionable insights from complex datasets. Adept at leveraging advanced technologies to optimize data-driven processes and enhance decision-making.
+Dual-skilled Machine Learning Engineer and Data Engineer with 4 years of experience in designing and implementing robust data pipelines, driving efficient data management and analysis.
+
+Specialized in developing machine learning models and algorithms to extract actionable insights from complex datasets. Adept at leveraging advanced technologies to optimize data-driven processes and enhance decision-making.
+
+Proven track record in successful delivery of an ERP project, pioneering R&D for autonomous drones, and hands-on development and leadership responsibilities. 
+
+Proficient in Full Stack and Android Development, contributing to tailored solutions, enhancing operational efficiency, and enriching user experiences. 
+
 
 Seeking to contribute expertise in both Data and Machine Learning domains to impactful projects and innovative solutions.
 
