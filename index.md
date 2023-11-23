@@ -18,6 +18,8 @@ Proficient in Full Stack and Android Development, contributing to tailored solut
 
 Seeking to contribute expertise in both Data and Machine Learning domains to impactful projects and innovative solutions.
 
+**LinkedIn:** [LinkedIn Profile](<https://www.linkedin.com/in/saurabh-harak/>)
+
 ## Core Competencies
 
 - **Data and Machine Learning Engineering**
@@ -31,21 +33,6 @@ Seeking to contribute expertise in both Data and Machine Learning domains to imp
 - **Automation**
 - **Full Stack Development**
 - **People Management**
-
----
-
-## Skills
-
-**IT Skills:**
-- **Big Data Ecosystem:** NoSQL, Spark, PySpark, Kafka
-- **Languages:** Python, core Java, C++, SQL
-- **Cloud Computing:** AWS
-- **Machine/Deep Learning:** Generative AI, GPT model customization, ANN, CNN, DNN, Linear Regression, Yolo3, Logistic regression, Decision tree, SVM algorithm, Naive Bayes algorithm, KNN algorithm, K-means, Random Forest algorithm
-- **Database:** MySQL, MongoDB
-- **Statistics/ML:** Linear/Logistic Regression, Ensemble Trees, Gradient Boosted trees
-- **Frameworks:** Django, Flask, CSS Bootstrap, Flutter, Streamlit
-- **Version Control:** Git, GitHub
-- **Deployment Tools:** Heroku, AWS
 
 ---
 
