@@ -6,6 +6,41 @@ description: Data Engineer Projects
 
 ## Data Engineer Projects
 
+**Title:Flask API for LGD Data Processing**
+
+ **Technology Stack**
+- Python (Flask, Pandas)
+
+**Description**
+Developed a Flask API for processing LGD-related JSON data in India. The API facilitates tasks such as processing LGD data, retrieving state mappings, and creating a mapped dataset based on user-defined inputs.
+
+**Key Features**
+- Efficient processing of LGD-related JSON data
+- Retrieval of state mappings from an SQLite database
+- Creation of mapped datasets based on provided inputs
+
+**Endpoints**
+
+**POST /process_json:**
+Process LGD-related JSON data and return a subset.
+
+**GET /state_mappings:**
+Retrieve state mappings from the SQLite database.
+
+**POST /create_mapped_dataset:**
+Create a mapped dataset based on user-defined inputs.
+
+**Examples**
+**Processing LGD Data**
+Send a POST request to http://localhost:5000/process_json with a JSON payload containing LGD-related data.
+
+**Retrieving State Mappings**
+Send a GET request to http://localhost:5000/state_mappings.
+
+**Creating Mapped Dataset**
+Send a POST request to http://localhost:5000/create_mapped_dataset with a JSON payload containing a 'dataset' and 'mapping'.
+
+
 **Title: Import Export Data**
 - **Technology Stack:** Python, pandas, wasabi, ThreadPoolExecutor, boto3
 - **Problem Statement:** Develop an ETL (Extract, Transform, Load) pipeline to extract import-export data from the Trade Statistics portal of the Ministry of Commerce and Industry, Government of India. Create a large dataset spanning 16 years with monthly trade data at the country level, totaling over 100 GB. Utilize Python programming language and pandas library for data manipulation and preparation during the ETL process.

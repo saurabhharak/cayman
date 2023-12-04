@@ -42,3 +42,46 @@ Crafted with Streamlit's magic, the web interface is not just a UI; it's a journ
 
 **Take a Dive into the Data-Driven Wonders of Map2LGD! 🚀🗺️💡**
 ---
+
+# Wasabi File Management Toolkit
+
+## Overview
+The Wasabi File Management Toolkit is a comprehensive package designed to streamline file uploads, facilitate folder creation, and simplify authentication processes within the Wasabi environment. Originally developed as an internal tool for a dedicated team, it has now been made public, offering a robust solution for developers seeking efficient Wasabi workflows.
+
+## Problem Statement
+Managing files and folders in the Wasabi cloud can be a complex task, especially when dealing with large datasets and intricate organizational structures. Existing tools may lack the simplicity and customization required for seamless integration into various projects. Developers often face challenges in creating a unified solution for file uploads, folder creation, and authentication in the Wasabi environment.
+
+## Key Features
+1. **File Upload Simplification:**
+   - Intuitive scripts for hassle-free file uploads to Wasabi storage.
+   - Efficient handling of large files and batch uploads.
+
+2. **Folder Creation Automation:**
+   - Easy-to-use scripts to create folders on the Wasabi cloud, enhancing organizational structure.
+   - Recursive folder creation for scalable project management.
+
+3. **Wasabi Authentication Integration:**
+   - Seamless authentication process with Wasabi for secure access to storage.
+   - Support for API keys and token-based authentication.
+
+4. **PyPI Hosting:**
+   - Published on the Python Package Index (PyPI) for easy installation and integration.
+   - Simple `pip install` command to incorporate the toolkit into your Python projects.
+
+5. **Customization and Extensibility:**
+   - Well-documented codebase to serve as a solid foundation for customization.
+   - Easily extend functionality for unique project requirements.
+
+6. **Internal Tool to Public Release:**
+   - Initially developed as an internal tool for a specific team's needs.
+   - Now publicly available on GitHub, fostering collaboration and community contributions.
+
+## Getting Started
+### 1. Installation
+```bash
+pip install wasabit
+```
+
+## Link to Repository
+
+[Wasabit](<https://github.com/saurabhharak/wasabit>)
