@@ -16,7 +16,7 @@ description: Data Engineer Projects
 - Cloud Storage: Wasabi
 
 ### Problem Statement:
-The project aimed to process and clean over 500GB of data sourced from various government websites, specifically focusing on datasets such as MNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) Physical, Financial, Mandays, and others. The primary challenge was to efficiently gather, clean, and transform the data into a suitable format for integration with the India Data Portal.
+The project aimed to process and clean over 500GB of data sourced from various government websites, specifically focusing on datasets such as **MNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) Physical, Financial, Mandays**, and others. The primary challenge was to efficiently gather, clean, and transform the data into a suitable format for integration with the India Data Portal.
 
 ### Steps Followed:
 1. **Data Collection:**
