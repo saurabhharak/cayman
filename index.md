@@ -25,13 +25,13 @@ Seeking to contribute expertise in both Data and Machine Learning domains to imp
 - **Data and Machine Learning Engineering**
 - **Generative AI**
 - **Python Programming**
+- **Automation**
+- **Software Development**
+- **Full Stack Development**
 - **Database Management**
 - **Big Data Technologies**
 - **Data Visualization**
 - **Project Management**
-- **Software Development**
-- **Automation**
-- **Full Stack Development**
 - **People Management**
 
 ---
@@ -41,7 +41,7 @@ Seeking to contribute expertise in both Data and Machine Learning domains to imp
 **IT Skills:**
 - **Big Data Ecosystem:** NoSQL, Spark, PySpark, Kafka
 - **Languages:** Python, core Java, C++, SQL
-- **Cloud Computing:** AWS,Azure
+- **Cloud Computing:** Azure
 - **Machine/Deep Learning:** Generative AI, GPT model customization, ANN, CNN, DNN, Linear Regression, Yolo3, Logistic regression, Decision tree, SVM algorithm, Naive Bayes algorithm, KNN algorithm, K-means, Random Forest algorithm
 - **Database:** MySQL, MongoDB
 - **Statistics/ML:** Linear/Logistic Regression, Ensemble Trees, Gradient Boosted trees
@@ -111,6 +111,7 @@ Led innovative research and development projects focused on achieving drone auto
 - Executive Post Graduation Programme - Machine Learning & AI from IIIT Bangalore | 70%
 - BE. - Computer Engineering from Pune University | 69%
 - Diploma - Computer Engineering from SIT Polytechnic Nashik | 82%
+
 - **Certificates:**
   - Introduction to Generative AI
   - Introduction to Large Language Models
