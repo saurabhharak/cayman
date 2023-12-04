@@ -7,8 +7,7 @@ description: Data Engineer Projects
 # Data Engineer Projects
 
 
-## Title:
-Government Data Processing and Integration for India Data Portal
+## Title: Government Data Processing and Integration for India Data Portal
 
 ### Technology Stack:
 - Web Scraping: BeautifulSoup (bs4), Selenium
