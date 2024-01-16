@@ -24,7 +24,7 @@ In the modern workplace, accessing information from documents efficiently can be
 - **Bot Development (Microsoft Teams)**: Implemented the bot using the Bot Builder Library and Azure Bot Services to enable seamless interaction within the Microsoft Teams platform.
 - **Response Generation (FastAPI)**: Developed the FastAPI application to generate responses by interfacing with the OpenAI language model and LangChain for optimized communication.
 - **Document Retrieval System (Cromadb)**: Integrated Cromadb to store and retrieve document vectors efficiently, enhancing the system's ability to fetch relevant documents quickly.
-- **Integration and Communication (Azure Bot Services): Ensured smooth communication flow between Microsoft Teams, Bot Builder, and the FastAPI application through Azure Bot Services.
+- **Integration and Communication (Azure Bot Services)**: Ensured smooth communication flow between Microsoft Teams, Bot Builder, and the FastAPI application through Azure Bot Services.
 - **Language Model Interaction (OpenAI Turbo 3.5 / Llama 7b)**: Established the connection between the bot and the language model, orchestrating the process of sending user queries and receiving contextually rich responses.
 - **Prompt Design (Exact Answer Extraction)**: Crafted custom prompts to extract precise answers from the language model, enhancing the accuracy of the information provided to the users.
 
