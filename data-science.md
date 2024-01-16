@@ -34,22 +34,22 @@ In the modern workplace, accessing information from documents efficiently can be
 In today's fast-paced business environment, providing efficient and accurate support is crucial. This project aims to fine-tune OpenAI's Davinci language model for conversational support queries. By leveraging a dataset of support queries and responses, the model is trained to understand user inquiries and generate contextually relevant and helpful responses.
 
 ## Tech Stack
-- Language Model Fine-Tuning: OpenAI's Davinci-002
-- Dataset Preparation: Pandas
-- File Management: OpenAI Files API
-- Model Training and Validation: OpenAI Fine-Tuning API
-- Testing and Evaluation: scikit-learn (accuracy, precision, recall, F1-score)
-- Application Development: Streamlit
-- Communication Middleware: OpenAI Chat API
+- **Language Model Fine-Tuning**: OpenAI's Davinci-002
+- **Dataset Preparation**: Pandas
+- **File Management**: OpenAI Files API
+- **Model Training and Validation**: OpenAI Fine-Tuning API
+- **Testing and Evaluation**: scikit-learn (accuracy, precision, recall, F1-score)
+- **Application Development**: Streamlit
+- **Communication Middleware**: OpenAI Chat API
 
 ## Responsibilities
-- Dataset Creation (Pandas): Developed a script to convert a given dataset into the required format for fine-tuning, considering the 'prompt' and 'completion' columns.
-- File Handling (OpenAI Files API): Utilized OpenAI Files API to upload training and validation data in JSONL format for fine-tuning.
-- Fine-Tuning Configuration (OpenAI Fine-Tuning API): Fine-tuned the Davinci-002 model using OpenAI's Fine-Tuning API, specifying training and validation files, model choice, and a custom suffix for identification.
-- Testing and Evaluation (scikit-learn): Implemented a testing mechanism to evaluate the fine-tuned model's performance using metrics such as accuracy, precision, recall, and F1-score.
-- Chat Application Development (Streamlit): Developed a Streamlit-based chat application for interactive user interaction with the fine-tuned model.
-- Communication Middleware (OpenAI Chat API): Integrated OpenAI's Chat API to facilitate real-time conversations between the user and the fine-tuned model.
-- Logging and Deployment (Streamlit): Set up logging to monitor the application's activity and deployed the application using Streamlit.
+- **Dataset Creation (Pandas)**: Developed a script to convert a given dataset into the required format for fine-tuning, considering the 'prompt' and 'completion' columns.
+- **File Handling (OpenAI Files API)**: Utilized OpenAI Files API to upload training and validation data in JSONL format for fine-tuning.
+- **Fine-Tuning Configuration (OpenAI Fine-Tuning API)**: Fine-tuned the Davinci-002 model using OpenAI's Fine-Tuning API, specifying training and validation files, model choice, and a custom suffix for identification.
+- **Testing and Evaluation (scikit-learn)**: Implemented a testing mechanism to evaluate the fine-tuned model's performance using metrics such as accuracy, precision, recall, and F1-score.
+- **Chat Application Development (Streamlit)**: Developed a Streamlit-based chat application for interactive user interaction with the fine-tuned model.
+- **Communication Middleware (OpenAI Chat API)**: Integrated OpenAI's Chat API to facilitate real-time conversations between the user and the fine-tuned model.
+- **Logging and Deployment (Streamlit)**: Set up logging to monitor the application's activity and deployed the application using Streamlit.
 
 
 ## Project Title: Fine-Tuning GPT-3.5 Turbo for Customer Support Conversations
@@ -58,22 +58,22 @@ In today's fast-paced business environment, providing efficient and accurate sup
 Efficient customer support relies on clear and helpful interactions. This project focuses on fine-tuning OpenAI's GPT-3.5 Turbo model for customer support conversations. By utilizing a dataset containing system prompts, user instructions, and assistant responses, the model is trained to understand and generate contextually relevant replies for effective customer support.
 
 ### Tech Stack
-- Language Model Fine-Tuning: OpenAI's GPT-3.5 Turbo
-- Dataset Preparation: Pandas
-- File Management: OpenAI Files API
-- Model Training and Validation: OpenAI Fine-Tuning API
-- Testing and Evaluation: scikit-learn (accuracy, precision, recall, F1-score)
-- Application Development: Streamlit
-- Communication Middleware: OpenAI Chat API
+- **Language Model Fine-Tuning:** OpenAI's GPT-3.5 Turbo
+- **Dataset Preparation:** Pandas
+- **File Management:** OpenAI Files API
+- **Model Training and Validation:** OpenAI Fine-Tuning API
+- **Testing and Evaluation:** scikit-learn (accuracy, precision, recall, F1-score)
+- **Application Development:** Streamlit
+- **Communication Middleware:** OpenAI Chat API
 
 ### Responsibilities
-- Dataset Creation (Pandas): Developed a script to convert a customer support dataset into the required format for fine-tuning, considering system prompts, user instructions, and assistant responses.
-- File Handling (OpenAI Files API): Utilized OpenAI Files API to upload training and validation data in JSONL format for fine-tuning.
-- Fine-Tuning Configuration (OpenAI Fine-Tuning API): Fine-tuned the GPT-3.5 Turbo model using OpenAI's Fine-Tuning API, specifying training and validation files, model choice, and a custom suffix for identification.
-- Testing and Evaluation (scikit-learn): Implemented a testing mechanism to evaluate the fine-tuned model's performance using metrics such as accuracy, precision, recall, and F1-score.
-- Chat Application Development (Streamlit): Developed a Streamlit-based chat application for interactive user interaction with the fine-tuned model.
-- Communication Middleware (OpenAI Chat API): Integrated OpenAI's Chat API to facilitate real-time conversations between the user and the fine-tuned model.
-- Logging and Deployment (Streamlit): Set up logging to monitor the application's activity and deployed the application using Streamlit.
+- **Dataset Creation (Pandas):** Developed a script to convert a customer support dataset into the required format for fine-tuning, considering system prompts, user instructions, and assistant responses.
+- **File Handling (OpenAI Files API):** Utilized OpenAI Files API to upload training and validation data in JSONL format for fine-tuning.
+- **Fine-Tuning Configuration (OpenAI Fine-Tuning API):** Fine-tuned the GPT-3.5 Turbo model using OpenAI's Fine-Tuning API, specifying training and validation files, model choice, and a custom suffix for identification.
+- **Testing and Evaluation (scikit-learn):** Implemented a testing mechanism to evaluate the fine-tuned model's performance using metrics such as accuracy, precision, recall, and F1-score.
+- **Chat Application Development (Streamlit):** Developed a Streamlit-based chat application for interactive user interaction with the fine-tuned model.
+- **Communication Middleware (OpenAI Chat API):** Integrated OpenAI's Chat API to facilitate real-time conversations between the user and the fine-tuned model.
+- **Logging and Deployment (Streamlit):** Set up logging to monitor the application's activity and deployed the application using Streamlit.
 
 
 ## DataTalker - A Conversation Interface for Datasets
