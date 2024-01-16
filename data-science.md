@@ -4,7 +4,7 @@ title: Data Science
 description: Data Science Projects
 ---
 # Data Science Projects
-## Project Title: Intelligent Document Query Bot for Microsoft Teams
+## Intelligent Document Query Bot for Microsoft Teams
 
 ### Problem Statement
 In the modern workplace, accessing information from documents efficiently can be a challenging task. To address this issue, our project focuses on developing an intelligent bot for Microsoft Teams that leverages advanced language models and document retrieval systems to provide users with accurate and context-aware answers from uploaded PDF documents.
@@ -28,7 +28,7 @@ In the modern workplace, accessing information from documents efficiently can be
 - **Language Model Interaction (OpenAI Turbo 3.5 / Llama 7b)**: Established the connection between the bot and the language model, orchestrating the process of sending user queries and receiving contextually rich responses.
 - **Prompt Design (Exact Answer Extraction)**: Crafted custom prompts to extract precise answers from the language model, enhancing the accuracy of the information provided to the users.
 
-## Project Title: Fine-Tuning OpenAI's Davinci Model for Conversational Support
+## Fine-Tuning OpenAI's Davinci Model for Conversational Support
 
 ### Problem Statement
 In today's fast-paced business environment, providing efficient and accurate support is crucial. This project aims to fine-tune OpenAI's Davinci language model for conversational support queries. By leveraging a dataset of support queries and responses, the model is trained to understand user inquiries and generate contextually relevant and helpful responses.
@@ -52,7 +52,7 @@ In today's fast-paced business environment, providing efficient and accurate sup
 - **Logging and Deployment (Streamlit)**: Set up logging to monitor the application's activity and deployed the application using Streamlit.
 
 
-## Project Title: Fine-Tuning GPT-3.5 Turbo for Customer Support Conversations
+## Fine-Tuning GPT-3.5 Turbo for Customer Support Conversations
 
 ### Problem Statement
 Efficient customer support relies on clear and helpful interactions. This project focuses on fine-tuning OpenAI's GPT-3.5 Turbo model for customer support conversations. By utilizing a dataset containing system prompts, user instructions, and assistant responses, the model is trained to understand and generate contextually relevant replies for effective customer support.
