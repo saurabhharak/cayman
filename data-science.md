@@ -28,12 +28,12 @@ In the modern workplace, accessing information from documents efficiently can be
 - **Language Model Interaction (OpenAI Turbo 3.5 / Llama 7b)**: Established the connection between the bot and the language model, orchestrating the process of sending user queries and receiving contextually rich responses.
 - **Prompt Design (Exact Answer Extraction)**: Crafted custom prompts to extract precise answers from the language model, enhancing the accuracy of the information provided to the users.
 
-# Project Title: Fine-Tuning OpenAI's Davinci Model for Conversational Support
+## Project Title: Fine-Tuning OpenAI's Davinci Model for Conversational Support
 
-## Problem Statement
+### Problem Statement
 In today's fast-paced business environment, providing efficient and accurate support is crucial. This project aims to fine-tune OpenAI's Davinci language model for conversational support queries. By leveraging a dataset of support queries and responses, the model is trained to understand user inquiries and generate contextually relevant and helpful responses.
 
-## Tech Stack
+### Tech Stack
 - **Language Model Fine-Tuning**: OpenAI's Davinci-002
 - **Dataset Preparation**: Pandas
 - **File Management**: OpenAI Files API
@@ -42,7 +42,7 @@ In today's fast-paced business environment, providing efficient and accurate sup
 - **Application Development**: Streamlit
 - **Communication Middleware**: OpenAI Chat API
 
-## Responsibilities
+### Responsibilities
 - **Dataset Creation (Pandas)**: Developed a script to convert a given dataset into the required format for fine-tuning, considering the 'prompt' and 'completion' columns.
 - **File Handling (OpenAI Files API)**: Utilized OpenAI Files API to upload training and validation data in JSONL format for fine-tuning.
 - **Fine-Tuning Configuration (OpenAI Fine-Tuning API)**: Fine-tuned the Davinci-002 model using OpenAI's Fine-Tuning API, specifying training and validation files, model choice, and a custom suffix for identification.
