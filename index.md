@@ -18,7 +18,7 @@ Proficient in Full Stack and Android Development, contributing to tailored solut
 
 Seeking to contribute expertise in both Data and Machine Learning domains to impactful projects and innovative solutions.
 
-**LinkedIn:** [LinkedIn Profile](<https://www.linkedin.com/in/saurabh-harak/>)
+<!-- **LinkedIn:** [LinkedIn Profile](<https://www.linkedin.com/in/saurabh-harak/>)
 
 ## Core Competencies
 
@@ -117,7 +117,7 @@ Led innovative research and development projects focused on achieving drone auto
   - Introduction to Large Language Models
   - Executive PG Program in Machine Learning and Artificial Intelligence September 2021 for successfully clearing Course 3
   - Spark Basics, Great Learning
-  - Introduction to Tensorflow and Keras, Great Learning
+  - Introduction to Tensorflow and Keras, Great Learning -->
 
 ## Passion for Technology
 
